@@ -10,4 +10,8 @@ item1.ADR;type=WORK;type=pref:;;232 E. Semoran Blvd.\nCasselberry\, FL;;;32707;U
 item1.X-ABADR:sg
 item2.URL;type=pref:bachatasensualorlando.com
 item2.X-ABLabel:_$!<HomePage>!$_
+item3.URL;type=pref:instagram.com/ayjbachata
+item3.X-ABLabel:_$!<HomePage>!$_
+item4.URL;type=pref:facebook.com/ayjbachata
+item4.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
