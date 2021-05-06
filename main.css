@@ -135,7 +135,7 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background-color: #F2F2F2;
+	background-color: #000000;
 }
 
 .bg-color-white {
@@ -168,10 +168,10 @@ img.profile-pic {
 }
 
 .button {
-	background-color: #219653;
+	background-color: #FCABCF;
 	height: 48px;
-	padding-left: 24px
-	padding-right: 24px;
+	padding-left: 0px
+	padding-right: 0px;
 	text-align: center;
 	vertical-align: middle;
 	line-height: 48px;
